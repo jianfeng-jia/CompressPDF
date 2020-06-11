@@ -3,7 +3,7 @@
        Copmpress PDF via GhostScript. https://www.ghostscript.com/
         
     .DESCRIPTION 
-       Be care if you have many PDFs. It will deal with files parallel.
+       Be care if you have many PDFs. It will deal with files parallelly.
     
     .NOTES  
     Author     : Jijia
